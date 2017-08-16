@@ -1,1 +1,1 @@
-# primsic-blog
+# prismic-blog
